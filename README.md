@@ -2,7 +2,7 @@
 This repository contains the exercises I completed while learning and practicing **NumPy**, one of the core Python libraries for numerical and data manipulation tasks.  
 All the code was written and executed inside the Jupyter Notebook file **`exercise-NumPy.ipynb`**.
 ## Project Overview
-I worked through this notebook to understand the fundamentals of NumPy arrays — how to create them, reshape them, and perform mathematical and logical operations.  
+I worked through this notebook to understand the fundamentals of NumPy arrays ie how to create them, reshape them, and perform mathematical and logical operations.  
 The exercises also involved exploring array attributes and integrating NumPy with simple datasets to perform small analysis tasks.
 ## Datasets Used
 During this exercise, I used the following datasets to test and understand NumPy operations:
